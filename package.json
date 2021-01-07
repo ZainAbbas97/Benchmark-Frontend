@@ -1,0 +1,23 @@
+{
+  "name": "Benchmark",
+  "version": "1.0.0",
+  "description": "\"# Benchmark-Frontend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zayn4700/Benchmark-Frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zayn4700/Benchmark-Frontend/issues"
+  },
+  "homepage": "https://github.com/Zayn4700/Benchmark-Frontend#readme",
+  "devDependencies": {
+    "sass": "^1.32.2"
+  }
+}
