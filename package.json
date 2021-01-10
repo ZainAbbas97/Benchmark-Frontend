@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Zayn4700/Benchmark-Frontend#readme",
   "devDependencies": {
     "sass": "^1.32.2"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1"
   }
 }
